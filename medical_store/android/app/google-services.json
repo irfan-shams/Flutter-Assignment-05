@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278479355845",
+    "project_id": "fir-class-1-3b8e6",
+    "storage_bucket": "fir-class-1-3b8e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278479355845:android:46cb2c84417cc685f015ac",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDeTQSr4AEBYyHFFirTxGsIcTvBMBsFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278479355845:android:31e5308751aec02bf015ac",
+        "android_client_info": {
+          "package_name": "com.example.medical_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDeTQSr4AEBYyHFFirTxGsIcTvBMBsFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
